@@ -1,6 +1,5 @@
 File before making changes
-<<<<<<< HEAD
-=======
+
 
 This is demo
->>>>>>> 848435f3dc60a4b02b904926fbe99d88fcaf8d1e
+
